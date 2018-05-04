@@ -1,1 +1,13 @@
 this is a simple try to do a push
+error i got was 
+error: src refspec master does not match any.
+error: failed to push some refs to 'https://github.com/Sameeranjoshi/sample.git'
+
+
+so I did the process again from git init
+and did 
+git add .
+.=for all
+
+
+!hola it worked for me!!!!!
